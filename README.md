@@ -1,2 +1,2 @@
 # rashid-php-laravel
-The Rashid application implemented in PHP with the Laravel framework
+The Rashid application implemented as a web application in PHP with the Laravel framework
