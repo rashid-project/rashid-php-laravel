@@ -11,6 +11,4 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::post('task/{task}/complete', 'TaskController@complete')->name('task.complete');
